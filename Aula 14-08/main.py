@@ -1,5 +1,5 @@
 carros = ["Ford KA", "Volkswagen Fusca", "Chevrolet Celta", "Volkswagen Up Tsi", "Volkswagen Kombi"]
-precos = [50, 60, 1000000, 200, 30]
+precos = [50, 60, 1000000, 200, 300]
 
 def acha_maior(valores):
     indice_maior = 0 
